@@ -31,8 +31,8 @@ I care about three things: **shipping fast**, **measuring impact**, and **contri
 <table>
 <tr>
 <td align="center" width="25%">
-<h3>₹20L+</h3>
-<sub>Revenue Generated<br/><i>ACE Platform — 2 months</i></sub>
+<h3>₹60L+</h3>
+<sub>Revenue Generated<br/><i>ACE Platform</i></sub>
 </td>
 <td align="center" width="25%">
 <h3>&lt;4s</h3>
