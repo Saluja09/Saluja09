@@ -100,7 +100,7 @@ I care about three things: **shipping fast**, **measuring impact**, and **contri
 ### 📦 Open Source
 
 <a href="https://github.com/Saluja09/knowhook">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Saluja09&repo=knowhook&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=c4f048&icon_color=c4f048&text_color=9a9a9e" />
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Saluja09&repo=knowhook&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=c4f048&icon_color=c4f048&text_color=9a9a9e&cache_seconds=1800" />
 </a>
 
 **[knowhook](https://pypi.org/project/knowhook/)** — Context retention tool for **Claude Code**
@@ -167,16 +167,12 @@ pip install knowhook
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Saluja09&show_icons=true&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=c4f048&icon_color=c4f048&text_color=9a9a9e&ring_color=c4f048&count_private=true" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Saluja09&show_icons=true&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=c4f048&icon_color=c4f048&text_color=9a9a9e&ring_color=c4f048&cache_seconds=1800" width="48%" />
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Saluja09&theme=dark&hide_border=true&background=0D1117&ring=c4f048&fire=c4f048&currStreakLabel=c4f048&sideLabels=9a9a9e&dates=3e3e42&currStreakNum=e4e2df&sideNums=e4e2df" width="48%" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Saluja09&layout=compact&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=c4f048&text_color=9a9a9e&langs_count=8" width="40%" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Saluja09&theme=github-compact&hide_border=true&bg_color=0d1117&color=c4f048&line=c4f048&point=e4e2df&area=true&area_color=c4f04830" width="96%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Saluja09&layout=compact&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=c4f048&text_color=9a9a9e&langs_count=8&cache_seconds=1800" width="40%" />
 </p>
 
 ---
